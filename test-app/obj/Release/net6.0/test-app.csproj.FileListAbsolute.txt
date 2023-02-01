@@ -1,0 +1,15 @@
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.csproj.AssemblyReference.cache
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.AssemblyInfoInputs.cache
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.AssemblyInfo.cs
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.csproj.CoreCompileInputs.cache
+/home/futupas/projects/test-docker-and-dotnet/test-app/bin/Release/net6.0/test-app
+/home/futupas/projects/test-docker-and-dotnet/test-app/bin/Release/net6.0/test-app.deps.json
+/home/futupas/projects/test-docker-and-dotnet/test-app/bin/Release/net6.0/test-app.runtimeconfig.json
+/home/futupas/projects/test-docker-and-dotnet/test-app/bin/Release/net6.0/test-app.dll
+/home/futupas/projects/test-docker-and-dotnet/test-app/bin/Release/net6.0/ref/test-app.dll
+/home/futupas/projects/test-docker-and-dotnet/test-app/bin/Release/net6.0/test-app.pdb
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.dll
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/ref/test-app.dll
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.pdb
+/home/futupas/projects/test-docker-and-dotnet/test-app/obj/Release/net6.0/test-app.genruntimeconfig.cache
